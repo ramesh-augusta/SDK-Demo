@@ -26,6 +26,12 @@
    "queryRequest":{
       "functionName":"query",
       "args":[
+         "b"
+      ]
+   },
+   "queryRequest":{
+      "functionName":"query",
+      "args":[
          "a"
       ]
    }
